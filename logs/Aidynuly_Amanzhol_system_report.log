@@ -1,0 +1,86 @@
+==================================================
+ System report
+==================================================
+Student full name : Aidynuly Amanzhol
+Date and time     : 2026-10-30 00:10:05 +05
+Current username  : amanzhol
+Hostname          : MacBook-Neo-Kazbek
+
+--- Operating system and kernel ---
+ProductName:		macOS
+ProductVersion:		27.0.1
+BuildVersion:		26A434
+Kernel            : Darwin 27.0.0 (arm64)
+
+--- CPU ---
+Model             : Apple A18 Pro
+Cores             : 6
+Load average      : 2,99 52,13 67,33
+
+--- Memory ---
+Total RAM         : 8192 MB
+System-wide memory free percentage: 53%
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                     4505.
+Pages active:                                 131338.
+Pages inactive:                               128910.
+Pages speculative:                              1784.
+
+--- Disk usage ---
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk2s1s1   228Gi    13Gi   8,9Gi    59%    484k   93M    1%   /
+/dev/disk2s6     228Gi   2,0Gi   8,9Gi    19%       2   93M    0%   /System/Volumes/VM
+/dev/disk2s2     228Gi    11Gi   8,9Gi    55%    1,0k   93M    0%   /System/Volumes/Preboot
+/dev/disk2s4     228Gi    26Mi   8,9Gi     1%     108   93M    0%   /System/Volumes/Update
+/dev/disk1s2     550Mi   6,0Mi   527Mi     2%       1  5,4M    0%   /System/Volumes/xarts
+/dev/disk1s1     550Mi   6,1Mi   527Mi     2%      39  5,4M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     550Mi   6,2Mi   527Mi     2%     884  5,4M    0%   /System/Volumes/Hardware
+/dev/disk2s5     228Gi   192Gi   8,9Gi    96%    1,9M   93M    2%   /System/Volumes/Data
+/dev/disk2s3     228Gi   1,8Gi   8,9Gi    18%      73   93M    0%   /Volumes/Recovery
+
+--- Available disk space (home directory) ---
+Available: 8,9Gi of 228Gi (96% used) on /System/Volumes/Data
+
+==================================================
+ System report
+==================================================
+Student full name : Aidynuly Amanzhol
+Date and time     : 2026-10-30 00:10:06 +05
+Current username  : amanzhol
+Hostname          : MacBook-Neo-Kazbek
+
+--- Operating system and kernel ---
+ProductName:		macOS
+ProductVersion:		27.0.1
+BuildVersion:		26A434
+Kernel            : Darwin 27.0.0 (arm64)
+
+--- CPU ---
+Model             : Apple A18 Pro
+Cores             : 6
+Load average      : 2,99 52,13 67,33
+
+--- Memory ---
+Total RAM         : 8192 MB
+System-wide memory free percentage: 54%
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                     7000.
+Pages active:                                 132842.
+Pages inactive:                               131064.
+Pages speculative:                              1899.
+
+--- Disk usage ---
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk2s1s1   228Gi    13Gi   8,9Gi    59%    484k   93M    1%   /
+/dev/disk2s6     228Gi   2,0Gi   8,9Gi    19%       2   93M    0%   /System/Volumes/VM
+/dev/disk2s2     228Gi    11Gi   8,9Gi    55%    1,0k   93M    0%   /System/Volumes/Preboot
+/dev/disk2s4     228Gi    26Mi   8,9Gi     1%     108   93M    0%   /System/Volumes/Update
+/dev/disk1s2     550Mi   6,0Mi   527Mi     2%       1  5,4M    0%   /System/Volumes/xarts
+/dev/disk1s1     550Mi   6,1Mi   527Mi     2%      39  5,4M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     550Mi   6,2Mi   527Mi     2%     884  5,4M    0%   /System/Volumes/Hardware
+/dev/disk2s5     228Gi   192Gi   8,9Gi    96%    1,9M   93M    2%   /System/Volumes/Data
+/dev/disk2s3     228Gi   1,8Gi   8,9Gi    18%      73   93M    0%   /Volumes/Recovery
+
+--- Available disk space (home directory) ---
+Available: 8,9Gi of 228Gi (96% used) on /System/Volumes/Data
+
