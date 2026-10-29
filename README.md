@@ -4,7 +4,7 @@ Spring Boot CRUD application (Student API) with PostgreSQL, Docker Compose and J
 
 Author: Aidynuly Amanzhol
 
-Status: version 1.0 with full CRUD released by Aidynuly Amanzhol
+Status: version 1.0 with full CRUD released by Aidynuly Amanzhol; documentation and usage examples added
 
 ## API
 
@@ -33,3 +33,12 @@ Written answers: [docs/ANSWERS.md](docs/ANSWERS.md)
 - Added the **Update** operation: `PUT /api/students/{id}` replaces full name, email, group and course.
 - Returns `404 Not Found` with a JSON error body when the student does not exist.
 - Covered by the automated test `updatesStudent`.
+
+## Usage examples
+
+```bash
+curl http://localhost:8080/aidynuly-amanzhol/api/students
+curl -X POST http://localhost:8080/aidynuly-amanzhol/api/students \
+  -H 'Content-Type: application/json' \
+  -d '{"fullName":"Aidynuly Amanzhol","email":"172498412+Amanzhol08@users.noreply.github.com","groupName":"IT2-2302","course":3}'
+```
